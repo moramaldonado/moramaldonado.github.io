@@ -15,12 +15,12 @@
 
 @font-face {
     font-family: my4Font;
-    src: url(webfonts/ostrich-dashed.ttf)};
+    src: url(webfonts/ostrich-dashed.ttf)}
+
 
 .bibase{
     font-family: MySecondFont;
-    
-}
+    }
 
 .bibbase_group_body {
     margin-left: 20px;
