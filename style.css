@@ -15,7 +15,13 @@
 
 @font-face {
     font-family: my4Font;
-    src: url(webfonts/ostrich-dashed.ttf);}
+    src: url(webfonts/ostrich-dashed.ttf)};
+
+.bibase{
+    font-family: myFirtFont;
+
+}
+
 
 .wrapper {
     border-top: 7px dotted #ABABAB;
