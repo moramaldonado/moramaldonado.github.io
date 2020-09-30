@@ -18,8 +18,13 @@
     src: url(webfonts/ostrich-dashed.ttf)};
 
 .bibase{
-    font-family: myFirtFont;
+    font-family: MySecondFont;
+    
+}
 
+.bibbase_group_body {
+    margin-left: 20px;
+    font-family: MySecondFont;
 }
 
 
