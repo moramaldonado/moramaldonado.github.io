@@ -35,7 +35,8 @@
 
 
 .bibbase_group_body {
-    margin-left: 20px;
+    margin-left: 16px;
+    line-height: 1em;
     font-family: myFirstFont;
 }
 
